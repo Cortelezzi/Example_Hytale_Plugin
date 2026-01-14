@@ -1,0 +1,6 @@
+{
+  "Group": "example.com",
+  "Name": "Example",
+  "Version": "0.1",
+  "Main": "example.com.Main"
+}
